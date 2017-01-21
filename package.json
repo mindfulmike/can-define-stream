@@ -39,7 +39,7 @@
     "can-observation": "^3.0.0",
     "can-stream": "^0.0.5",
     "can-util": "^3.0.0",
-    "kefir": "^3.5.1"
+    "kefir": "^3.7.1"
   },
   "devDependencies": {
     "bit-docs": "0.0.7",
